@@ -1,0 +1,1 @@
+[1,0,0,[["cc.TextAsset",["_name","text"],1]],[[0,0,1,3]],[[0,"guide","﻿id,name,chapter,index,teacher,guide_type,text,delay,next_event,stop_event,teacherY\r\n#,,,,,,,,,,\r\n1,mission_1,1,1,1,talk,点击即可消除星星  派兵上阵战斗,0.1,,,\r\n2,mission_1,1,1,1,max_click,,,StartCleanStar,,\r\n"]],0,0,[],[],[]]
